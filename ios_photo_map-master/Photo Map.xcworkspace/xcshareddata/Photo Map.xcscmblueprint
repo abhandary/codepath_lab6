@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35A43B744D789C7F851529179A069E6E332E70D1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "162E1497FA9384901A3131EC5679AB398962F5F2" : 9223372036854775807,
+    "35A43B744D789C7F851529179A069E6E332E70D1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B7C83EE3-02A3-4473-BC43-5C5259E76D13",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "162E1497FA9384901A3131EC5679AB398962F5F2" : "",
+    "35A43B744D789C7F851529179A069E6E332E70D1" : "codepath_lab6\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Photo Map",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios_photo_map-master\/Photo Map.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:SocialLocationReminder\/GoTeam.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "162E1497FA9384901A3131EC5679AB398962F5F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:abhandary\/codepath_lab6.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35A43B744D789C7F851529179A069E6E332E70D1"
+    }
+  ]
+}
